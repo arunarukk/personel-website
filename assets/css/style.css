@@ -1052,3 +1052,11 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.success{
+  color: green!important;
+}
+
+.error{
+  color: red!important;
+}
